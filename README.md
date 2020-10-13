@@ -1,4 +1,4 @@
-# Hello! I'm Yuliana 🤍
+# Hello! I'm Yuliana 👩🏻‍💻
 
 👩🏼‍💻   I'm currently working on **Instagram-clone** side-project  
 ⌛️ I'm curentlly learning **NodeJS** and **Express**  
