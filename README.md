@@ -1,4 +1,4 @@
-# Hello! I'm Yuliana 👩🏻‍💻
+# Hello!
      
 📫 How to reach me: [@yulianahazda](https://twitter.com/yulianahazda) on Twitter   
 
